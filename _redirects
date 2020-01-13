@@ -2,6 +2,7 @@
 
 # Redirect domain aliases to primary domain
 https://soaicbe.com/* https://soaicbe.org/:splat 301!
+http://soaicbe.com/* https://soaicbe.org/:splat 301!
 https://www.soaicbe.com/* https://soaicbe.org/:splat 301!
 
 # Optional: Redirect default Netlify subdomain to primary domain
