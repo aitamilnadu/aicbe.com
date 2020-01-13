@@ -501,7 +501,7 @@ a img.aligncenter {
 .top-navbar .navbar-light .navbar-nav .nav-item {
     position: relative;
     display: inline-block;
-    padding: 0px 0px;
+    padding: 15px 0px;
     margin: 0px 20px;
 }
 
@@ -633,8 +633,8 @@ a img.aligncenter {
 }
 
 .top-navbar .bg-light {
-    padding-top: 15px;
-    padding-bottom: 15px;
+    padding-top: 0px;
+    padding-bottom: 0px;
     box-shadow: 0 0 18px 0 rgba(0, 0, 0, .12);
 }
 
