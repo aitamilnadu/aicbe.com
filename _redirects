@@ -1,7 +1,6 @@
 # These rules will change if you change your site’s custom domains or HTTPS settings
 
 # Redirect domain aliases to primary domain
-https://soaicbe.org/* https://soaicbe.org/:splat 301!
 https://soaicbe.com/* https://soaicbe.org/:splat 301!
 https://www.soaicbe.com/* https://soaicbe.org/:splat 301!
 
