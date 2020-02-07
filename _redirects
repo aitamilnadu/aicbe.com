@@ -1,0 +1,9 @@
+# These rules will change if you change your site’s custom domains or HTTPS settings
+
+# Redirect domain aliases to primary domain
+https://soaicbe.com/* https://soaicbe.org/:splat 301!
+http://soaicbe.com/* https://soaicbe.org/:splat 301!
+https://www.soaicbe.com/* https://soaicbe.org/:splat 301!
+
+# Optional: Redirect default Netlify subdomain to primary domain
+https://quirky-leavitt-e7e4a0.netlify.com/* https://soaicbe.org/:splat 301!
